@@ -2,9 +2,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://imgur.com/3mI6okz"  />
-</div>
+![image-removebg-preview](https://github.com/dokiun/dokiun/assets/142639109/4ca5d0b3-ba09-4b8c-9147-1a5e33c4b137)
+
 
 ###
 
@@ -27,9 +26,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/dokiun/dokiun/output/snake.svg" alt="Snake animation" />
 
 ###
