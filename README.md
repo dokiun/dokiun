@@ -1,10 +1,7 @@
 <h1 align="left">About me:</h1>
 
 ###
-
-![image-removebg-preview](https://github.com/dokiun/dokiun/assets/142639109/4ca5d0b3-ba09-4b8c-9147-1a5e33c4b137)
-
-
+![ezgif com-resize](https://github.com/dokiun/dokiun/assets/142639109/d2d2c6d5-6c99-4229-9c98-bfbe23f14aba)
 ###
 
 <p align="left">Hi, I'm Mateo, also known as @dokiun. <br>I'm a Mechanical Engineering student, from National University of Colombia!</p>
